@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@slynova/eslint-config": "^1.0.5",
-    "aws-sdk": "^2.240.1",
+    "aws-sdk": "^2.369.0",
     "coveralls": "^3.0.1",
     "dotenv": "^6.0.0",
     "eslint": "^5.0.0",
