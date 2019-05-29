@@ -1,6 +1,6 @@
 {
   "name": "@targos/flydrive",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Flexible and Fluent way to manage storage in Node.js.",
   "main": "./build/index.js",
   "license": "MIT",
